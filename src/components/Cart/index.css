@@ -1,0 +1,19 @@
+.cart-component {
+    position: relative;
+    cursor: pointer;
+}
+
+.cart-badge {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -5px;
+    right: 0;
+    width: 1rem;
+    height: 1rem;
+    font-size: 10px;
+    line-height: 1;
+    background-color: grey;
+    color: black;
+}
